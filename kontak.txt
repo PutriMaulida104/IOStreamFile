@@ -1,0 +1,2 @@
+Budi,081234,budi@email.com
+Citra,089999,citra@email.com
